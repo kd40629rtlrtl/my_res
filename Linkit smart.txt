@@ -1,0 +1,4 @@
+基本設置:
+http://oranwind.org/linkit-7688-linkit-smart-76887688-duo-ji-chu-jiao-xue/
+
+驅動:https://labs.mediatek.com/site/znch/developer_tools/mediatek_linkit_smart_7688/get_started/7688_duo/get_hardware_and_software/index.gsp
